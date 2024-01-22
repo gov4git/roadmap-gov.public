@@ -1,0 +1,1 @@
+{"id":"alo3azvlx7irtaz6yi56zcaqels6274wui5ldu6vf6hwy3jfdrpa","stamp":"2024-01-22T21:36:06.230125962Z","payload":{"op":"account_issue","note":"directive from GitHub issue #15","args":{"amount":{"asset":"plural","quantity":10000},"from":"treasury+issue","to":"user:jason-entenmann"}}}
