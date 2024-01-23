@@ -1,0 +1,1 @@
+{"id":"pzjc6x2vkmjqyizm647ybe3vlxiv5anllwtgijfmn77xiu2qze2a","stamp":"2024-01-23T21:08:31.183419442Z","payload":{"op":"account_transfer","note":"vote charge for ballot pmp/motion/priority_poll/8","args":{"amount":{"asset":"plural","quantity":16},"from":"user:kasiasun","to":"ballot_escrow:pmp/motion/priority_poll/8"}}}
