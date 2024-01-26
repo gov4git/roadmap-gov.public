@@ -1,0 +1,1 @@
+{"id":"rwew22watqe7j6a3vg7i37bhjvmdcdenhcyhot43rg6u23ykihqq","stamp":"2024-01-26T00:23:18.358013133Z","payload":{"op":"account_transfer","note":"vote charge for ballot pmp/motion/priority_poll/7","args":{"amount":{"asset":"plural","quantity":400},"from":"user:dworthen","to":"ballot_escrow:pmp/motion/priority_poll/7"}}}
