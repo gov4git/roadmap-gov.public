@@ -1,0 +1,1 @@
+{"id":"5tinof3txfxtyxoh5uch25pt4fqzhehktnasohj6vlpxdfc6qbua","stamp":"2024-01-29T16:09:00.961653282Z","payload":{"op":"account_transfer","note":"vote charge for ballot pmp/motion/priority_poll/7","args":{"amount":{"asset":"plural","quantity":0},"from":"user:petar","to":"ballot_escrow:pmp/motion/priority_poll/7"}}}
