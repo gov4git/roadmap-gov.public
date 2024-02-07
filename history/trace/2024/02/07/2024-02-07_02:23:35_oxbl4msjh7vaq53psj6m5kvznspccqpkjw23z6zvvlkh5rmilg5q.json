@@ -1,0 +1,1 @@
+{"id":"oxbl4msjh7vaq53psj6m5kvznspccqpkjw23z6zvvlkh5rmilg5q","stamp":"2024-02-07T02:23:35.654780945Z","payload":{"op":"account_transfer","note":"directive from GitHub issue #29","args":{"amount":{"asset":"plural","quantity":1000},"from":"user:petar","to":"pmp+matching"}}}
