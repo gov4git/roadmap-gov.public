@@ -1,0 +1,1 @@
+{"id":"mflhrwwhjyybwyphgprhtoe33fmgsoyycoq6rmqc6jedayqxebdq","stamp":"2024-02-23T23:09:02.134939247Z","payload":{"op":"account_transfer","note":"closing ballot pmp/motion/priority_poll/26","args":{"amount":{"asset":"plural","quantity":36},"from":"ballot_escrow:pmp/motion/priority_poll/26","to":"motion:30+pmp-proposal-bounty"}}}

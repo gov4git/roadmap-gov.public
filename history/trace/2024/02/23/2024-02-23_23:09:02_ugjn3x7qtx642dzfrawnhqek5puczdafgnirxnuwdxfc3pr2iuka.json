@@ -1,0 +1,1 @@
+{"id":"ugjn3x7qtx642dzfrawnhqek5puczdafgnirxnuwdxfc3pr2iuka","stamp":"2024-02-23T23:09:02.055071141Z","payload":{"op":"account_transfer","note":"reviewer reward for proposal 30","args":{"amount":{"asset":"plural","quantity":25},"from":"motion:30+pmp-proposal-reward","to":"user:petar"}}}

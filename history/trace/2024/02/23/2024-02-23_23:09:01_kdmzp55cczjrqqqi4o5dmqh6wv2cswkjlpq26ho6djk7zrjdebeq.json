@@ -1,0 +1,1 @@
+{"id":"kdmzp55cczjrqqqi4o5dmqh6wv2cswkjlpq26ho6djk7zrjdebeq","stamp":"2024-02-23T23:09:01.854483563Z","payload":{"op":"account_transfer","note":"vote charge for ballot pmp/motion/approval_poll/30","args":{"amount":{"asset":"plural","quantity":0},"from":"user:petar","to":"ballot_escrow:pmp/motion/approval_poll/30"}}}
