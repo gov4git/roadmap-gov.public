@@ -1,0 +1,1 @@
+{"id":"2yn5qvkczcf47ynye6ohrzkkhjk5sbvifxbft2kid4xklu3hngja","stamp":"2024-08-11T01:57:03.425202876Z","payload":{"op":"account_issue","note":"directive from GitHub issue #33","args":{"amount":{"asset":"plural","quantity":10000},"from":"treasury+issue","to":"user:biglep"}}}

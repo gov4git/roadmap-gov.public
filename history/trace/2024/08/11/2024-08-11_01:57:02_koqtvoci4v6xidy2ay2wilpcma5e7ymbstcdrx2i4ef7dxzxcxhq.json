@@ -1,0 +1,1 @@
+{"id":"koqtvoci4v6xidy2ay2wilpcma5e7ymbstcdrx2i4ef7dxzxcxhq","stamp":"2024-08-11T01:57:02.471501711Z","payload":{"op":"account_issue","note":"directive from GitHub issue #34","args":{"amount":{"asset":"plural","quantity":10000},"from":"treasury+issue","to":"user:peterkaminski"}}}

@@ -1,0 +1,1 @@
+{"id":"l5iyx2luevdmr7ia4eot3j5aw4h4ij5bsjdkhuxr5qj3zuqkzk7a","stamp":"2024-08-11T01:57:03.425101426Z","payload":{"op":"account_transfer_overdraft","note":"directive from GitHub issue #33","args":{"amount":{"asset":"plural","quantity":10000},"from":"treasury+issue","to":"user:biglep"}}}
